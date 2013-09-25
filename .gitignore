@@ -6,3 +6,10 @@
 *.ear
 .IDEA/
 .idea/
+.classpath
+.project
+.settings
+bin
+build
+target
+dependency-reduced-pom.xml
