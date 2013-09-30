@@ -1,22 +1,9 @@
-package hello;
+class HelloWorld {
 
-public class Greeting {
+public static void main (String args []) {
 
-    private final long id;
-    private final String content;
+System. out. println ("Hello World");
 
-    public Greeting(long id, String content) {
-        this.id = id;
-        this.content = content;
-    }
+}
 
-    public long getId() {
-        return id;//TODO: Add new line
-    }
-
-    public String getContent() {
-        return content;//TODO:delete this line
-        return content;//todo:add
-    
-    }
 }
